@@ -1,0 +1,6 @@
+.img-bg img{
+    width: 100%;
+    /* height:calc(92vh + 5px) ; */
+    height: 100vh;
+    filter: blur(12px);
+}
